@@ -4,7 +4,7 @@
 #initailize variables 
 month=$1 #first enter 
 year=$2  #second enter
-count=0
+count=0 
 
 #check how many parameters 
 for arg in "$@"
