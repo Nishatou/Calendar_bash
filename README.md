@@ -1,4 +1,4 @@
-## calendar_bash
+## Calendar_bash
 
 * **Purpose:** to perform calendar ouput when input the month and year in bash shell
 
