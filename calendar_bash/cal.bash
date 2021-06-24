@@ -1,5 +1,4 @@
 #!/bin/bash
-#Hw 3 
 
 #initailize variables 
 month=$1 #first enter 
