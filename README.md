@@ -1,6 +1,7 @@
 ## Calendar_bash
 
-* **Purpose:** to perform calendar ouput when input the month and year in bash shell
+* **Languages used:**   Unix, Bash Shell
+* **Description:**  Wrote a script in bash to output calendars weeks, days, and years based on the user's two input values (month, year).
 
 
 ## Examples
